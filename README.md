@@ -6,5 +6,5 @@
   This is my description
 <p>
 
-<h3>Screenshots<h/3>
-<img src="https://github.com/jackief2002/FieldDay-/blob/master/StartScreen.png">
+<h3>Screenshots</h3>
+<img src="https://github.com/jackief2002/FieldDay-/blob/master/StartScreen.png" width="200px"> 
